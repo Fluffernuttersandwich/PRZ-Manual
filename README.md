@@ -16,11 +16,15 @@ All credit for the creation and development of PRZ Manual belongs to **L00**.
 
 L00 has explicitly authorized FinFNS to rehost and redistribute the mod. This permission does not transfer ownership or grant third parties unrestricted redistribution or modification rights.
 
+
+<img width="1098" height="402" alt="image" src="https://github.com/user-attachments/assets/acf06a9b-8b7b-4812-8654-4ba6a9d8ccdb" />
+
+
 ## Support the Author
 
 If you enjoy L00's work, please consider supporting him through his official Ko-fi page.
 
-**Ko-fi:** [[Insert L00's official Ko-fi URL](https://ko-fi.com/l00ping)]
+**Ko-fi:** [[L00's official Ko-fi URL](https://ko-fi.com/l00ping)]
 
 ## Downloads
 
